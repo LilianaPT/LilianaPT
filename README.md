@@ -2,7 +2,7 @@
 
 Computer Science student focused on **AI and Cybersecurity**, building security infrastructure that protects people's most sensitive data. I also make games — game jams are where I practice shipping complete projects fast.
 
-- 🛡️ **Project Lead at AQ Tech** — building [Biometric Ghost-Gate](https://github.com/LilianaPT/Biometric-Ghost-Gate), a bot-detection sandbox for banking and fintech
+- 🛡️ **Founder of AQ Tech** — building [Biometric Ghost-Gate](https://github.com/LilianaPT/Biometric-Ghost-Gate), a bot-detection sandbox for banking and fintech
 - 🎓 First-generation student at Elgin Community College · Phi Theta Kappa
 - 🎮 Shipped my first game, [What Comes Back Isn't the Same](https://katsuna96.itch.io/what-comes-back), in 48 hours for Spooky 2D Jam 2026
 - 🌎 English · Español
